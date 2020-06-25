@@ -1,0 +1,7 @@
+This project enable to insert data into rabbitmq queue, 
+collect data from rabbitmq queue, and insert data into postgresql.
+
+Every environment variabels are sored in external file env.py.
+This file is not attach to this repository.
+
+
